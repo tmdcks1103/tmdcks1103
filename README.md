@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
 <!--
 **tmdcks1103/tmdcks1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
