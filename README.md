@@ -1,7 +1,4 @@
-<div>
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=SeungChan&animation=fadeIn&fontSize=100&)
-</div>
-
+# Welcome!, I'm Seungchan Kim 👋🏻
 
 <div align-items="center">
   <span>
@@ -10,8 +7,8 @@
   </span>
 </div>
 
+## About me
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmdcks1103%2Fhit-counter&count_bg=%2387A3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tmdcks1103&utm_content=farm">
 <img
@@ -36,11 +33,6 @@
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code Badge"/>
   <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black"/>
 </div>
-
-
-
-
-
 
 <!--
 **tmdcks1103/tmdcks1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
