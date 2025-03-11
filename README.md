@@ -1,4 +1,4 @@
-# Welcome!, I'm Seungchan Kim 👋🏻
+# Welcome! I'm Seungchan Kim 👋🏻
 
 <div align-items="center">
   <span>
@@ -7,7 +7,6 @@
   </span>
 </div>
 
-## About me
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmdcks1103%2Fhit-counter&count_bg=%2387A3FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tmdcks1103&utm_content=farm">
@@ -20,7 +19,7 @@
   
 
 ## Tech Stack
-
+-
 <div align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
