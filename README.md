@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=300&section=header&text=Welcome!&animation=fadeIn)
+<div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=SeungChan&animation=fadeIn&fontSize=100&)
+</div>
+
 
 <div align-items="center">
   <span>
