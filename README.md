@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=300&section=header&text=Welcome!&animation=fadeIn)
 
+<div align-items="center">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=tmdcks1103&show_icons=true&theme=react" width="55%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdcks1103&layout=compact&theme=solarized-light" width="42%"/> 
+  </span>
+</div>
+
 ## Tech Stack
 
 <div align="left">
