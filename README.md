@@ -13,12 +13,7 @@
   <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black"/>
 </div>
 
-<div align-items="center">
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=tmdcks1103&show_icons=true&theme=react" width="55%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdcks1103&layout=compact&theme=solarized-light" width="42%"/> 
-  </span>
-</div>
+
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tmdcks1103&utm_content=farm">
 <img
